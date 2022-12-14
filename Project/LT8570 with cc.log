@@ -1,0 +1,28 @@
+Circuit: * C:\Users\ncard\OneDrive - University of Ottawa\University Archive\Year 5\Fall Term\Electronics 3\Project\LT8570 with cc.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:8)
+.step r=3000
+.step r=8000
+.step r=10000
+.step r=50000
+
+Date: Sun Dec 11 23:32:49 2022
+Total elapsed time: 1746.931 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 73977588
+traniter = 73977548
+tranpoints = 21001389
+accept = 15535177
+rejected = 5466212
+matrix size = 94
+fillins = 3
+solver = Normal
+Thread vector: 3.4/2.2[6] 2.2/1.1[7] 0.6/0.8[1] 0.1/0.4[1]  2592/500
+Matrix Compiler1:     264 opcodes  0.8/0.7/[0.7]
+Matrix Compiler2: off  [0.6]/0.6/0.9
+

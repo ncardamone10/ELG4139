@@ -1,0 +1,245 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 0.31 0.24 270 N J2 PJ-102AH ;0=2,1=0.4331
+PRP Actual_Diameter '0.079_ (2.00mm ID), 0.256_ (6.50mm OD)'
+PRP componentlink1description 'Datasheet'
+PRP componentlink1url 'https://www.cuidevices.com/product/resource/digikeypdf/pj-102ah.pdf'
+PRP componentlink2description 'DigiKey Link'
+PRP componentlink2url '//digikey.com/product-detail/en/cui-devices/PJ-102AH/CP-102AH-ND/408448'
+PRP Connector_Type 'Jack'
+PRP Current_Rating_(Amps) '5A'
+PRP Gender 'Male'
+PRP Industry_Recognized_Mating_Diameter '2.00mm ID (0.079_), 5.50mm OD (0.217_)'
+PRP Internal_Switch(s) 'Single Switch, Normally Closed'
+PRP lastupdated '2019-12-16 7:01:27 PM'
+PRP Lifecycle_Status '0'
+PRP manufacturer 'CUI Devices'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mating_Length/Depth '0.354_ (9.00mm)'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Through Hole, Right Angle'
+PRP Number_of_Positions/Contacts '2 Conductors, 3 Contacts'
+PRP packaging 'Tray'
+PRP Part_Number 'PJ-102AH'
+PRP Part_Status 'Active'
+PRP price '0.76'
+PRP series '-'
+PRP Shielding 'Unshielded'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 'CP-102AH-ND'
+PRP Termination 'Solder'
+PRP Voltage_-_Rated '24VDC'
+TOP 0 0.565906 0.24 270 N 11 1 J2-1
+TOP 1 0.329686 0.24 270 N 10 2 J2-2
+TOP 2 0.447796 0.05496 180 N 10 1 J2-3
+#
+# CMP 1
+CMP 10 0.32 1.33 180 N R1 CRCW080510R0FKEA ;0=1,1=0.0197
+PRP manufacturer 'Vishay Dale'
+PRP Part_Number 'CRCW080510R0FKEA'
+TOP 0 0.356418 1.33 90 N 13 3 R1-1
+TOP 1 0.283582 1.33 90 N 12 2 R1-2
+#
+# CMP 2
+CMP 11 1.17 0.31 0 N L3 744770233 ;0=1,1=0.3150
+PRP componentlink1description 'Manufacturer Link'
+PRP componentlink1url 'http://www.we-online.com'
+PRP componentlink2description 'Datasheet'
+PRP componentlink2url 'http://www.we-online.de/katalog/media/pdf/744770233.pdf'
+PRP DatasheetVersion 'ver 5, Oct-2004'
+PRP Inductance '330 ÂµH'
+PRP PackageDescription 'SMD Inductor, 2-Leads, Body 12.0 x 12.0 mm'
+PRP PackageReference 'WE-PD-XL'
+PRP PackageVersion '2004'
+TOP 0 0.975118 0.31 270 N 14 1 L3-1
+TOP 1 1.364882 0.31 270 N 16 21 L3-2
+#
+# CMP 3
+CMP 11 1.17 0.87 0 N L1 744770233 ;0=1,1=0.3150
+PRP componentlink1description 'Manufacturer Link'
+PRP componentlink1url 'http://www.we-online.com'
+PRP componentlink2description 'Datasheet'
+PRP componentlink2url 'http://www.we-online.de/katalog/media/pdf/744770233.pdf'
+PRP DatasheetVersion 'ver 5, Oct-2004'
+PRP Inductance '330 ÂµH'
+PRP PackageDescription 'SMD Inductor, 2-Leads, Body 12.0 x 12.0 mm'
+PRP PackageReference 'WE-PD-XL'
+PRP PackageVersion '2004'
+TOP 0 0.975118 0.87 270 N 7 7 L1-1
+TOP 1 1.364882 0.87 270 N 15 2 L1-2
+#
+# CMP 4
+CMP 9 0.11 1.34 270 N J1 TSW-102-07-L-S ;0=2,1=0.0000
+PRP Color 'Black'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Gold'
+PRP Contact_Type 'Male Pin'
+PRP Current_Rating '7.6A'
+PRP Depth '2.54mm'
+PRP Gender 'Male'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Polyester'
+PRP Lead_Free 'Lead Free'
+PRP Length '5.08mm'
+PRP Max_Current_Rating '7.6A'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '550V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '2'
+PRP Number_of_Positions '2'
+PRP Number_of_Rows '1'
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP series 'TSW'
+PRP Termination 'Solder'
+PRP Voltage_Rating '550V'
+PRP Width '2.54mm'
+TOP 0 0.11 1.29 270 N 16 18 J1-1
+TOP 1 0.11 1.39 270 N 12 1 J1-2
+#
+# CMP 5
+CMP 1 0.64 1.32 0 N D1 ES3D-E3/57T ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Capacitance '45pF'
+PRP Category 'Diode'
+PRP componentlink2description 'Datasheet'
+PRP componentlink2url 'http://www.vishay.com/docs/88589/es3.pdf'
+PRP Device_Class_L1 'Discrete Semiconductors'
+PRP Device_Class_L2 'Diodes'
+PRP Device_Class_L3 'Rectifier Diodes'
+PRP Digikey_Description 'DIODE GEN PURP 200V 3A DO214AB'
+PRP Footprint_Url 'https://www.vishay.com/docs/95402/smc.pdf'
+PRP Forward_Current '3A'
+PRP Height '2.62mm'
+PRP Lead_Free 'Yes'
+PRP manufacturer 'Vishay'
+PRP Manufacturer_Part_Number 'ES3D-E3/57T'
+PRP Max_Junction_Temp '+150°C'
+PRP Max_Repetitive_Reverse_Voltage '200V'
+PRP Max_Surge_Forward_Current '100A'
+PRP Mouser_Description 'Rectifiers 3.0 Amp 200V 20ns'
+PRP Octopart 'https://octopart.com/es3d-e3%2F57t-vishay-39550290'
+PRP Package '95402'
+PRP Peak_Reverse_Current '10uA'
+PRP Reverse_Voltage '200V'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0mm'
+PRP Temperature '-55°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Value '45pF'
+TOP 0 0.513818 1.32 0 N 13 4 D1-1
+TOP 1 0.766182 1.32 0 N 14 2 D1-2
+#
+# CMP 6
+CMP 8 0.25 0.96 270 N C3 EEUFR1H221B ;0=2,1=0.0000
+PRP Capacitance '220uF'
+PRP Case/Package 'Radial'
+PRP Contact_Plating 'Tin'
+PRP Diameter '10mm'
+PRP ESR_(Equivalent_Series_Resistance) '30mR'
+PRP Features 'General Purpose'
+PRP Height '16mm'
+PRP Height_-_Seated_(Max) '0.689inch'
+PRP Impedance '30mR'
+PRP Lead_Diameter '0.6mm'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '5mm'
+PRP Length '16mm'
+PRP Life_(Hours) '8000Hour'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP packaging 'Ammo Pack'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Ripple_Current '1.65A'
+PRP RoHS_Compliant 'Yes'
+PRP series 'FR'
+PRP Termination 'Radial'
+PRP Tolerance '20%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+TOP 0 0.25 0.861574 270 N 16 19 C3-1
+TOP 1 0.25 1.058426 270 N 13 2 C3-2
+#
+# CMP 7
+CMP 8 0.67 0.69 0 N C2 EEUFR1H221B ;0=2,1=0.0000
+PRP Capacitance '220uF'
+PRP Case/Package 'Radial'
+PRP Contact_Plating 'Tin'
+PRP Diameter '10mm'
+PRP ESR_(Equivalent_Series_Resistance) '30mR'
+PRP Features 'General Purpose'
+PRP Height '16mm'
+PRP Height_-_Seated_(Max) '0.689inch'
+PRP Impedance '30mR'
+PRP Lead_Diameter '0.6mm'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '5mm'
+PRP Length '16mm'
+PRP Life_(Hours) '8000Hour'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP packaging 'Ammo Pack'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Ripple_Current '1.65A'
+PRP RoHS_Compliant 'Yes'
+PRP series 'FR'
+PRP Termination 'Radial'
+PRP Tolerance '20%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+TOP 0 0.571574 0.69 0 N 16 20 C2-1
+TOP 1 0.768426 0.69 0 N 7 6 C2-2
+#
+# CMP 8
+CMP 6 0.64 1.06 180 N C1 GRM32ER71J106KA12L ;0=1,1=0.0000
+PRP Capacitance '10uF'
+PRP Case_Code_(Imperial) '1210'
+PRP Case_Code_(Metric) '3225'
+PRP Case/Package '1210'
+PRP Depth '2.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '2.5mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '3.2mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1000'
+PRP packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.106inch'
+PRP Tolerance '10%'
+PRP Voltage '63V'
+PRP Voltage_Rating '63V'
+PRP Voltage_Rating_(DC) '63V'
+PRP Weight '0.00388oz'
+PRP Width '2.5mm'
+TOP 0 0.70496 1.06 180 N 15 1 C1-1
+TOP 1 0.57504 1.06 180 N 14 0 C1-2
+#

@@ -1,0 +1,23 @@
+Change Footprint: Footprint Not Found FP-DD-8-05-08-1698-IPC_A
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=96893ECF-78CE-41DF-8D4F-C8C8BEAA66BA New ItemGUID=A89B9EDC-E15B-4EBC-A6E8-E3664D81B6CA Old RevisionGUID=CE3CF72D-C497-4D92-889B-659BDEFBA71F New RevisionGUID=7BF79502-D0E0-4A12-A822-F1D5A31C437E
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FP-DD-8-05-08-1698-IPC_A"; UniqueID = "\BPKEPMNH" ("\BPKEPMNH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "MSOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "65V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "2.55V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Output Voltage"; Value = "1.204V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "750mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "65V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "1.5MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectifier"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "Boost"; VariantName = "[No Variations]"
